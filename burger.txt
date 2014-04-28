@@ -1,0 +1,5 @@
+get meat
+
+cook meat
+
+eat meat
